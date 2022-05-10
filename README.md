@@ -16,6 +16,8 @@ JAVASCRIPT
 jQuery
 Bootstrap
 
+Objective :- The main objective of the project "Helping Hand : Payment Gateway Integration" is to raise the funds for the poor children for their education,nutrition and livelihood. This project is totally for non-profit organization/NGOs, built at administrative end and thus only the administrator has the access of all transaction details.
+
 
 Screenshot Website :- 
 
