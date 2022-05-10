@@ -13,6 +13,8 @@ skills use:-
 HTML
 CSS
 JAVASCRIPT
+jQuery
+Bootstrap
 
 
 Screenshot Website :- 
