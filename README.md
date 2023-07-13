@@ -34,6 +34,6 @@ Payment Gateway :-
 Rozarpay :- https://razorpay.com/?utm_adgroup=brandsearch_core&utm_gclid=CjwKCAiA6Y2QBhAtEiwAGHybPSw21cp39ECA6v3K8yVWWHALjtQbUrXrwB-nk2wakRxgtkXHhDK5ERoCpXsQAvD_BwE&utm_source=google&utm_medium=cpc&utm_campaign=brandsearch&utm_term=razorpay&hsa_src=g&hsa_ad=430853793008&hsa_kw=razorpay&hsa_mt=e&hsa_acc=9786800965&hsa_net=adwords&hsa_ver=3&hsa_grp=27293859910&hsa_tgt=kwd-337200051286&hsa_cam=400139470&gclid=CjwKCAiA6Y2QBhAtEiwAGHybPSw21cp39ECA6v3K8yVWWHALjtQbUrXrwB-nk2wakRxgtkXHhDK5ERoCpXsQAvD_BwE
 
 
-Website Url :- helpinghand-blond.vercel.app
+Website Url :- https://helpinghand-blond.vercel.app/
 
 
